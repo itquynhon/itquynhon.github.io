@@ -15,6 +15,6 @@ media_subpath: /assets/quan-ly-ban-hang
 ![Lập đề xuất thanh toán](https://i.imgur.com/X4GxNBD.jpg)
 
 ### Lập phiếu thu
-![Lập phiếu thu](/lap-phieu-thu.jpeg)
+![Lập phiếu thu](https://i.imgur.com/KOY7bsY.jpg)
 
 ###
